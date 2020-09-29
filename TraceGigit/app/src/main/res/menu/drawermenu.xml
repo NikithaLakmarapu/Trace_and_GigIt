@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:clickable="true"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/profile_edit"
+        android:clickable="true"
+        android:title="Profile" />
+
+
+    <item
+        android:id="@+id/menuupload"
+        android:clickable="true"
+        android:title="Menu Upload" />
+
+    <item
+        android:id="@+id/settings"
+        android:clickable="true"
+        android:title="Settings" />
+
+    <item
+        android:id="@+id/contactus"
+        android:clickable="true"
+        android:title="Contact" />
+
+
+    <item
+        android:id="@+id/logout"
+        android:clickable="true"
+        android:title="Logout" />
+
+
+
+</menu>
