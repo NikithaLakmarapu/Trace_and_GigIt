@@ -3,13 +3,7 @@
 ##### Section Number: 44692-04
 
 ![Hosted image](https://github.com/SOWMYAREDDY97/TraceAndGigIt/blob/master/APP_logo.PNG "app logo")
-## Project Graduated Directed Team :- 
-- Subrahmanya Sai Bharadwaj Gandrakota
-- Deepak Sai Krishna Jayanthi
-- Leela Krishna Kosaraju
-- Nikitha Lakmarapu
-- Sowmya Reddy Kumbham
-- Nandini Yadav Janga
+
 ### Project Client:
 - Dr. Zhengrui Qin - Assistant Professor, School Of Computer Science and Information Systems
 ### Project Description:
